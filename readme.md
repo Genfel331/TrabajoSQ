@@ -8,4 +8,4 @@
 8. git config globar user.name genfel   (para poder identificarse en el editor)
 secure hash algoritmo  ( encriptacion en un texto por seguridad sha).         
 9. git checkout -- . (-- restaura commits,permite recuperar un commit , puede hacer un branch o cambiar de rama) primero se hace el cambio despues un commit para que se quede guardado backup y si borro al usar checkout regresara 
-10. git brach 
+10. git brach (crea ramas para poder trabajar simultaneamente )
