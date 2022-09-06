@@ -9,5 +9,6 @@
 secure hash algoritmo  ( encriptacion en un texto por seguridad sha).         
 9. git checkout -- . (-- restaura commits,permite recuperar un commit , puede hacer un branch o cambiar de rama) primero se hace el cambio despues un commit para que se quede guardado backup y si borro al usar checkout regresara 
 10. git branch (crea ramas para poder trabajar simultaneamente )
-11. git branch --list (muestra las ramas creadas )
-12. git checkout nueva_rama (se cambia a la rama con el nombre que se desea , para verificar que se esta en la deseada se pinta de color verde)
+11. git branch --list 
+12. git marge nueva_rama ( fusiona las ramas )
+13. git branch -d nueva_rama ( para eliminar la rama)
